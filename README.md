@@ -1,3 +1,3 @@
-# docker-compose build
-# docker-compose up
-# npm start
+### docker-compose build
+### docker-compose up
+### npm start
